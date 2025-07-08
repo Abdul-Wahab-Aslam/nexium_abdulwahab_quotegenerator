@@ -20,7 +20,11 @@ A Next.js 15 app that takes a topic input and displays 3 quotes from a local JSO
 ![image](https://github.com/user-attachments/assets/363cf774-ff89-4e2f-9d9e-f54f65e713e6)
 
 
---> If we search quote "Motivation" and its found in json data
+--> If we search quote "Inspiration" and its found in json data
 ![image](https://github.com/user-attachments/assets/2a79905e-8c51-4048-a8b3-34d91816e55e)
+
+-->similarly we search quote "motivation" and its found then the result is:  (also we use the hover effect)
+![image](https://github.com/user-attachments/assets/f5a36703-2918-41d0-9b37-0cc5c0db9fbb)
+
 
 
