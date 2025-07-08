@@ -16,7 +16,11 @@ A Next.js 15 app that takes a topic input and displays 3 quotes from a local JSO
 3. Install dependencies: `pnpm install`
 4. Run locally: `pnpm dev`
 
+--> If Quote Not Found:
+![image](https://github.com/user-attachments/assets/363cf774-ff89-4e2f-9d9e-f54f65e713e6)
 
+
+--> If we search quote "Motivation" and its found in json data
 ![image](https://github.com/user-attachments/assets/2a79905e-8c51-4048-a8b3-34d91816e55e)
 
 
